@@ -44,4 +44,4 @@ The repository is organized week-wise and day-wise to track learning progress co
 B.Tech CSE  
 Vishnu Institute of Technology  
 
-🔗 GitHub: https://github.com/your-username
+🔗 GitHub: https://github.com/adityamantripragada7-coder/sales-force-training
