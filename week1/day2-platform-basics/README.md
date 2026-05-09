@@ -81,7 +81,8 @@ College Management App
 Students and faculty can use the app to manage attendance, courses, fee details and academic information.
 
 ## Screenshots
-![Screenshot](imageScreenshot%202026-05-09%20153124.png)
+![Screenshot](<img width="1043" height="711" alt="Screenshot 2026-05-09 233930" src="https://github.com/user-attachments/assets/4920f2b1-6aa2-4f42-91d7-4f36a0ccd776" />
+)
 
 ## My Learnings
 Today I understood how Salesforce platform is structured and how apps, objects and tabs work together inside Salesforce.
